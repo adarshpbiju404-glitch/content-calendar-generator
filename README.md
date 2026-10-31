@@ -28,7 +28,7 @@ Most small brands do not struggle to post. They struggle to decide what to post,
 
 ## Run it locally
 
-Open `index.html` in any browser.
+Open `Content Calendar Generator.html` in any browser.
 
 ## Deploy on GitHub Pages
 
