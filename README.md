@@ -30,15 +30,5 @@ Most small brands do not struggle to post. They struggle to decide what to post,
 
 Open `Content Calendar Generator.html` in any browser.
 
-## Deploy on GitHub Pages
-
-Repo Settings, then Pages, then deploy from the `main` branch root.
-
-## Roadmap
-
-- Custom pillar editor
-- Holiday and awareness-day overlay
-- Drag-and-drop rescheduling
-- Companion tool: readability and keyword density checker
 
 
