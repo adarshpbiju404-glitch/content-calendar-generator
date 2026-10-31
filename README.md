@@ -2,9 +2,8 @@
 
 A free, no-signup tool that turns a niche, a set of platforms and a posting pace into a balanced 30-day content calendar. Export it as a CSV and drop it into Notion, Google Sheets or Excel.
 
-**Live demo:** `https://<your-username>.github.io/content-calendar-generator/`
+**Live demo:** `https://adarshpbiju404-glitch.github.io/content-calendar-generator/`
 
-![Screenshot of the calendar](screenshot.png)
 
 ## Why I built this
 
@@ -14,7 +13,7 @@ Most small brands do not struggle to post. They struggle to decide what to post,
 
 - Pick one or more platforms: Instagram, LinkedIn, X, Facebook, YouTube, Blog, Email
 - Choose 1 to 7 posts per week and a start date
-- Goal-based weighting: awareness, leads or sales changes the pillar mix
+- Goal-based weighting: awareness, leads, or sales changes the pillar mix
 - No two consecutive posts share a pillar
 - Platform-appropriate formats (Reel, Carousel, Thread, Newsletter and more)
 - Shuffle for fresh ideas, copy as text, or download a CSV
@@ -42,6 +41,4 @@ Repo Settings, then Pages, then deploy from the `main` branch root.
 - Drag-and-drop rescheduling
 - Companion tool: readability and keyword density checker
 
-## License
 
-MIT
